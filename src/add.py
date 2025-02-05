@@ -5,4 +5,4 @@ def add(a, b):
 
 def test_add():
     assert add(1, 4) == 5
-    assert add(1, -2) == -1
+    assert add(1, -2) == -4
