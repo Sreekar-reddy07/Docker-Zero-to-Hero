@@ -21,3 +21,4 @@ jobs:
               cd src
               javac add.java
               java add
+              mvn test
