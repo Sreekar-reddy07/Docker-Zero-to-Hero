@@ -21,7 +21,7 @@ public class add {
          runTests();
     }
 
-    // Test function
+    // Test functiodn
      public static void runTests() {
        System.out.println("Running tests...");
       assertEquals(50, multiply(5, 10), "Test Case 1 Failed");
