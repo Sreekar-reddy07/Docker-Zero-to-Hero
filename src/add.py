@@ -1,8 +1,9 @@
-# app.py
-# This is a test commit
-def add(a, b):
-    return a + b
+# Declaring numbers
+num1 = 10
+num2 = 20
 
-def test_add():
-    assert add(1, 4) == 5
-    assert add(1, -2) == -4
+# Adding the numbers
+sum_result = num1 + num2
+
+# Displaying the result
+print("The sum is:", sum_result)
