@@ -1,7 +1,7 @@
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
-public class Multiplication {
+public class add {
     // Method to multiply two numbers
     public static int multiply(int num1, int num2) {
         return num1 * num2;
@@ -19,12 +19,12 @@ public class Multiplication {
         System.out.println("The product is: " + result);
 
         // Run tests
-        runTests();
+       //  runTests();
     }
 
     // Test function
     // public static void runTests() {
-     //   System.out.println("Running tests...");
+    //    System.out.println("Running tests...");
    //     assertEquals(50, multiply(5, 10), "Test Case 1 Failed");
       //  assertEquals(0, multiply(5, 0), "Test Case 2 Failed");
      //   assertEquals(-15, multiply(3, -5), "Test Case 3 Failed");
