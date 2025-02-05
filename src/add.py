@@ -17,6 +17,6 @@ def test_add():
     assert add(1, 4) == 5
     assert add(1, -2) == -1
 
-# Run the test
+# Run the test if askdmdal;las
 test_add()
 print("All tests passed successfully!")
