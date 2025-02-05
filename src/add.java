@@ -26,6 +26,6 @@ public class add {
       assertEquals(0, multiply(5, 0), "Test Case 2 Failed");
        assertEquals(-15, multiply(3, -5), "Test Case 3 Failed");
       assertEquals(25, multiply(-5, -5), "Test Case 4 Failed");
-        System.out.println("All test cases passed!"); )
+        System.out.println("All test cases passed!");
     }
 }
