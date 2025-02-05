@@ -1,3 +1,5 @@
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 public class add {
     // Method to multiply two numbers
     public static int multiply(int num1, int num2) {
