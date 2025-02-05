@@ -28,3 +28,4 @@ public class add {
       assertEquals(25, multiply(-5, -5), "Test Case 4 Failed");
         System.out.println("All test cases passed!"); )
     }
+}
