@@ -1,9 +1,5 @@
 # add.py
-def add(a, b):
-    return a + b
+a = 10
+b = 20
+print ("the sum of",a, "and",b, "is", a+b)
 
-if __name__ == "__main__":
-    num1 = 10
-    num2 = 20
-    result = add(num1, num2)
-    print(f"The sum of {num1} and {num2} is: {result}")
