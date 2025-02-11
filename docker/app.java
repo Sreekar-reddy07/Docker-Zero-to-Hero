@@ -1,4 +1,4 @@
-public class SimpleMath 
+public class app 
 {
     public static void main(String[] args) 
     {
