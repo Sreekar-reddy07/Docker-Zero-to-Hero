@@ -12,4 +12,4 @@ RUN apt-get install -y openjdk-11-jdk
 RUN javac app.java
 
 # Run a command to start the application
-CMD ["java", "app.java"]
+CMD ["java", "app"]
